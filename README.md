@@ -23,9 +23,8 @@
 | 🔗 Проект | 📋 Описание | 🛠 Инструменты |
 |----------|-------------|----------------|
 | [Работа с БД](https://github.com/DmitriiLukovetskii/sql) | Тестирование SQL/MySQL/MongoDB | MySQL, DBeaver, MongoDB |
-| [Тестирование веб-приложений](https://github.com/DmitriiLukovetskii/web_testing) | Тесты для клиент-серверных приложений | DevTools, Postman, SoapUI |
-| [Тестовая-документация](https://github.com/DmitriiLukovetskii/test_documentation) | Чек-листы, кейсы, баг-репорты | TestIT, Jira |
-| [Тестирование мобильных приложений](https://github.com/DmitriiLukovetskii/mobile_testing) | Android UI и поведение | Android Studio, Charles Proxy |
+| [Тестирование веб-приложений](https://github.com/DmitriiLukovetskii/web_testing) | Тесты для клиент-серверных приложений | DevTools, [Postman, SoapUI](https://github.com/DmitriiLukovetskii/api_testing) |
+| [Тестирование мобильных приложений](https://github.com/DmitriiLukovetskii/mobile_testing) | Android UI и поведение | Android Studio, [Charles Proxy](https://github.com/DmitriiLukovetskii/charlesproxy) |
 
 ---
 
